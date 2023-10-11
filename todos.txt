@@ -3,3 +3,6 @@ edit profile
 make soup
 take a nap
 laundry
+learn python
+
+make commits daily
