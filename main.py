@@ -1,7 +1,9 @@
 from functions import get_todos, save_todos
+import time
 
 file = "todos.txt"
-
+now = time.strftime("%b %d, %Y %H:%M:%S")
+print(f"It is {now}")
 while True:
     user_action = input("Enter add, show, edit, complete, or exit: ").strip()
 
