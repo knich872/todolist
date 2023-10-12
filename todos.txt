@@ -2,7 +2,6 @@ run 10k
 edit profile
 make soup
 take a nap
-laundry
-learn python
-
 make commits daily
+wash dishes
+go home early
