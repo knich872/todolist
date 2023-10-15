@@ -1,8 +1,2 @@
-run 10k
-edit homepage
-make bread
-take a nap
-wash clothes
-cook salmon
-read a book
-
+take nap
+take shower
