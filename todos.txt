@@ -1,5 +1,6 @@
 run 10k
-edit profile
-make pasta sauce
+edit homepage
+make bread
 take a nap
-wash dishes
+wash clothes
+
