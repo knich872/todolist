@@ -1,7 +1,5 @@
 run 10k
 edit profile
-make soup
+make pasta sauce
 take a nap
-make commits daily
 wash dishes
-go home early
